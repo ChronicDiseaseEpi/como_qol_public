@@ -1,0 +1,20 @@
+repo,nct_id,chosen_treatment_arm,treatment_dosing,treatment_variable_name,chosen_control_arm,control_dosing,control_variable_name,comment
+YODA,NCT00265083,Golimumab,100mg,NA,Placebo,NA,NA,NA
+YODA,NCT00207766,Infliximab,5mg/kg,NA,Placebo,NA,NA,NA
+YODA,NCT01369329,ustekinumab,6mg/kg,NA,Placebo,NA,NA,NA
+YODA,NCT01369342,ustekinumab,6mg/kg,NA,Placebo,NA,NA,NA
+YODA,NCT00487539,Golimumab,400mg,NA,Placebo,NA,NA,note dose finding phase
+YODA,NCT00488631,Golimumab,100mg,NA,Placebo,NA,NA,NA
+YODA,NCT00231595,Topiramate,200mg,NA,Placebo,NA,NA,NA
+YODA,NCT00265096,golimumab,100mg,NA,Placebo,NA,NA,NA
+YODA,NCT01009086,Ustekinumab,90mg,NA,Placebo,NA,NA,NA
+YODA,NCT01077362,Ustekinumab,90mg,NA,Placebo,NA,NA,NA
+YODA,NCT00267969,Ustekinumab,90mg,NA,Placebo,NA,NA,NA
+YODA,NCT00236028,Infliximab,6mg/kg,NA,Placebo,NA,NA,NA
+YODA,NCT00264537,Golimumab and MTX,100mg,NA,Placebo and MTX,NA,NA,NA
+YODA,NCT00264550,Golimumab and MTX,100mg,NA,Placebo and MTX,NA,NA,NA
+YODA,NCT00361335,Golimumab and MTX,4mg/kg,NA,Placebo and MTX,NA,NA,NA
+YODA,NCT00973479,Golimumab and MTX,2mg/kg,NA,Placebo and MTX,NA,NA,NA
+YODA,NCT01106625,Canagliflozin,300mg,NA,Placebo,NA,NA,all arms on MF and SU too
+YODA,NCT01106677,Canagliflozin,300mg,NA,Placebo,NA,NA,"cana also at 100mg, choose cana 300mg vs placebo"
+YODA,NCT01137812,Canagliflozin,300mg,NA,Sitgliptan,100mg,NA,all on MF and SU also
